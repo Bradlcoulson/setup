@@ -1,0 +1,112 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.maxComputationTime": 0,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.cursorWidth": 3,
+  "window.zoomLevel": 1,
+  "editor.detectIndentation": false,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.linkedEditing": true,
+  "editor.renderWhitespace": "trailing",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "off",
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  },
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true
+  },
+  "scm.alwaysShowActions": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyleInactive": "line",
+  "todohighlight.defaultStyle": {
+    "backgroundColor": "#fff",
+    "color": "#000",
+    "overviewRulerColor": "#fff"
+  },
+  "todohighlight.isEnable": true,
+  "todohighlight.keywords": [
+    "DEBUG:",
+    {
+      "backgroundColor": "#c7cd19",
+      "color": "#000",
+      "text": "REVIEW:",
+    },
+    {
+      "backgroundColor": "#009cbf",
+      "color": "#000",
+      "text": "NOTE:"
+    },
+    {
+      "color": "#000",
+      "text": "TODO:"
+    }
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#181818",
+    "activityBarBadge.background": "#03a26b",
+    "diffEditor.insertedLineBackground": "#01543725",
+    "diffEditor.removedLineBackground": "#6b0f0f25",
+    "editorIndentGuide.activeBackground1": "#e9e9e9",
+    "editorWhitespace.foreground": "#e9e9e9",
+    "editorCursor.foreground": "#03a26b",
+    "editor.selectionBackground": "#015437",
+    "editor.background": "#181818",
+    "terminal.selectionBackground": "#015437",
+    "terminalCursor.foreground": "#03a26b",
+    "terminalCursor.width": "2",
+    "activityBar.activeBorder": "#03a26b",
+    "panelTitle.activeBorder": "#03a26b",
+    "panelTitle.activeForeground": "#03a26b",
+    "statusBarItem.remoteBackground": "#181818",
+    "statusBar.focusBorder": "#03a26b",
+    "button.background": "#03a26b",
+    "button.hoverBackground": "#03a26b",
+    "menu.selectionBackground": "#03a26b",
+    "notificationsInfoIcon.foreground": "#03a26b",
+    "focusBorder": "#03a26b",
+    "list.activeSelectionBackground": "#03a26b",
+    "list.inactiveSelectionBackground": "#015437",
+    "tab.activeBorderTop": "#03a26b",
+    "tab.unfocusedActiveBorderTop": "#015437",
+    "tab.border": "#181818",
+    "peekView.border": "#03a26b",
+    "peekViewResult.selectionBackground": "#03a26b",
+    "commandCenter.background": "#181818",
+    "menubar.selectionBackground": "#181818",
+    "menubar.selectionForeground": "#03a26b",
+  },
+  "workbench.editor.enablePreview": false,
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  // "github.copilot.editor.enableAutoCompletions": true,
+  // "chat.editing.alwaysSaveWithGeneratedChanges": true,
+}
