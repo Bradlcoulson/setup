@@ -1,0 +1,207 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "diffEditor.maxComputationTime": 0,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.cursorWidth": 3,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.linkedEditing": true,
+  "editor.renderWhitespace": "trailing",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "off",
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "scm.alwaysShowActions": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 3,
+  "terminal.integrated.cursorStyleInactive": "line",
+  "todohighlight.defaultStyle": {
+    "backgroundColor": "#fff",
+    "color": "#000",
+    "overviewRulerColor": "#fff"
+  },
+  "todohighlight.isEnable": true,
+  "todohighlight.keywords": [
+    "DEBUG:",
+    {
+      "backgroundColor": "#c7cd19",
+      "color": "#000",
+      "text": "REVIEW:",
+    },
+    {
+      "backgroundColor": "#009cbf",
+      "color": "#000",
+      "text": "NOTE:"
+    },
+    {
+      "color": "#000",
+      "text": "TODO:"
+    }
+  ],
+  // "workbench.colorCustomizations": {
+  //   "activityBar.background": "#181818",
+  //   "activityBarBadge.background": "#03a26b",
+  //   "diffEditor.insertedLineBackground": "#01543725",
+  //   "diffEditor.removedLineBackground": "#6b0f0f25",
+  //   "editorIndentGuide.activeBackground1": "#e9e9e9",
+  //   "editorWhitespace.foreground": "#e9e9e9",
+  //   "editorCursor.foreground": "#03a26b",
+  //   "editor.selectionBackground": "#015437",
+  //   "editor.background": "#181818",
+  //   "terminal.selectionBackground": "#015437",
+  //   "terminalCursor.foreground": "#03a26b",
+  //   "terminalCursor.width": "2",
+  //   "activityBar.activeBorder": "#03a26b",
+  //   "panelTitle.activeBorder": "#03a26b",
+  //   "panelTitle.activeForeground": "#03a26b",
+  //   "statusBarItem.remoteBackground": "#181818",
+  //   "statusBar.focusBorder": "#03a26b",
+  //   "button.background": "#03a26b",
+  //   "button.hoverBackground": "#03a26b",
+  //   "menu.selectionBackground": "#03a26b",
+  //   "notificationsInfoIcon.foreground": "#03a26b",
+  //   "focusBorder": "#03a26b",
+  //   "list.activeSelectionBackground": "#03a26b",
+  //   "list.inactiveSelectionBackground": "#015437",
+  //   "tab.activeBorderTop": "#03a26b",
+  //   "tab.unfocusedActiveBorderTop": "#015437",
+  //   "tab.border": "#181818",
+  //   "peekView.border": "#03a26b",
+  //   "peekViewResult.selectionBackground": "#03a26b",
+  //   "commandCenter.background": "#181818",
+  //   "menubar.selectionBackground": "#181818",
+  //   "menubar.selectionForeground": "#03a26b",
+  // },
+  "workbench.colorCustomizations": {
+    "editorWidget.foreground": "#DBDBDB",
+    "inputOption.activeBorder": "#DBDBDB",
+    // --- 
+    "notifications.background": "#0e2c20",
+    "notifications.foreground": "#DBDBDB",
+    // --- 
+    "peekView.border": "#DBDBDB15", // The main outer thickness/border
+    "peekViewEditor.background": "#102e2a", // Background of the code side
+    "peekViewResult.background": "#102e2a", // Background of the list side (right)
+    "peekViewTitle.background": "#DBDBDB15",
+    "peekViewTitleDescription.foreground": "#DBDBDB88", // The filename/path text
+    "peekViewTitleLabel.foreground": "#DBDBDB", // The "Definition" or "References" text
+    "peekViewEditorStickyScroll.background": "#0e2c20",
+    // --- 
+    "titleBar.activeForeground": "#DBDBDB",
+    "titleBar.activeBackground": "#102e2a",
+    "titleBar.inactiveBackground": "#102e2a",
+    "titleBar.inactiveForeground": "#DBDBDB88",
+    "titleBar.border": "#102e2a",
+    // --- 
+    "activityBar.foreground": "#DBDBDB",
+    "activityBar.background": "#102e2a",
+    "activityBar.activeBorder": "#DBDBDB",
+    "activityBar.inactiveForeground": "#DBDBDB66",
+    "activityBarBadge.background": "#DBDBDB",
+    "activityBarBadge.foreground": "#102e2a",
+    "activityBar.border": "#102e2a",
+    // --- 
+    "tab.activeForeground": "#DBDBDB",
+    "tab.activeBackground": "#DBDBDB15",
+    "tab.inactiveBackground": "#102e2a",
+    "tab.inactiveForeground": "#DBDBDB88",
+    "tab.border": "#102e2a",
+    "tab.activeBorderTop": "#DBDBDB",
+    "tab.hoverBackground": "#DBDBDB15",
+    // --- 
+    "editor.foreground": "#DBDBDB",
+    "editor.background": "#102e2a",
+    "editorCursor.foreground": "#DBDBDB",
+    "editorIndentGuide.activeBackground1": "#DBDBDB44",
+    "editorWhitespace.foreground": "#DBDBDB",
+    "editor.selectionBackground": "#DBDBDB33",
+    "editorGroupHeader.tabsBackground": "#102e2a",
+    // "diffEditor.insertedLineBackground": "#01543725",
+    // "diffEditor.removedLineBackground": "#6b0f0f25",
+    // --- 
+    "sideBar.foreground": "#DBDBDB",
+    "sideBar.background": "#102e2a",
+    "sideBarSectionHeader.background": "#102e2a",
+    "sideBarSectionHeader.foreground": "#c6d1cd",
+    "sideBarSectionHeader.border": "#c6d1cd22",
+    "sideBarTitle.foreground": "#c6d1cd",
+    "sideBar.border": "#102e2a",
+    // --- 
+    "statusBar.foreground": "#DBDBDB",
+    "statusBar.background": "#102e2a",
+    "statusBar.border": "#102e2a",
+    "statusBarItem.remoteBackground": "#102e2a",
+    "statusBarItem.hoverBackground": "#c6d1cd22",
+    // --- 
+    "panel.background": "#102e2a",
+    "panel.border": "#DBDBDB33",
+    "panelTitle.activeForeground": "#DBDBDB",
+    "panelTitle.activeBorder": "#DBDBDB",
+    // --- 
+    "commandCenter.background": "#102e2a",
+    // --- 
+    "terminal.background": "#102e2a",
+    "terminalCursor.foreground": "#DBDBDB",
+    "terminal.selectionBackground": "#DBDBDB33",
+    // --- 
+    "menubar.selectionForeground": "#DBDBDB",
+    "menubar.selectionBackground": "#DBDBDB22",
+    // --- 
+    "list.activeSelectionBackground": "#DBDBDB33",
+    "list.inactiveSelectionBackground": "#DBDBDB11",
+    "list.focusBackground": "#DBDBDB22",
+    "list.highlightForeground": "#03a26b",
+    "list.focusOutline": "#00000000",
+    "list.hoverForeground": "#DBDBDB",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.hoverBackground": "#DBDBDB15",
+    "list.inactiveSelectionForeground": "#DBDBDB",
+    // --- 
+    "foreground": "#DBDBDB",
+    "focusBorder": "#DBDBDB",
+    // --- 
+    "button.background": "#DBDBDB",
+    "button.foreground": "#102e2a",
+    "button.hoverBackground": "#ffffff",
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "foreground": "#dbdbdbda", // Using your light color at 50% opacity
+          "fontStyle": "italic" // Optional: makes comments stand out
+        }
+      }
+    ]
+  },
+  "window.confirmBeforeClose": "always",
+  "chat.viewSessions.orientation": "stacked",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+}
