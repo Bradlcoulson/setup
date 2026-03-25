@@ -102,71 +102,80 @@
     "editorWidget.foreground": "#DBDBDB",
     "inputOption.activeBorder": "#DBDBDB",
     // --- 
-    "notifications.background": "#0e2c20",
-    "notifications.foreground": "#DBDBDB",
+    // "notifications.background": "#0e2c20",
+    // "notifications.foreground": "#DBDBDB",
+    // "notifications.border": "#DBDBDB",
+    "notificationsInfoIcon.foreground": "#DBDBDB",
     // --- 
     "peekView.border": "#DBDBDB15", // The main outer thickness/border
-    "peekViewEditor.background": "#102e2a", // Background of the code side
-    "peekViewResult.background": "#102e2a", // Background of the list side (right)
+    "peekViewEditor.background": "#0d2926", // Background of the code side
+    "peekViewResult.background": "#0d2926", // Background of the list side (right)
     "peekViewTitle.background": "#DBDBDB15",
     "peekViewTitleDescription.foreground": "#DBDBDB88", // The filename/path text
     "peekViewTitleLabel.foreground": "#DBDBDB", // The "Definition" or "References" text
     "peekViewEditorStickyScroll.background": "#0e2c20",
     // --- 
     "titleBar.activeForeground": "#DBDBDB",
-    "titleBar.activeBackground": "#102e2a",
-    "titleBar.inactiveBackground": "#102e2a",
+    "titleBar.activeBackground": "#0d2926",
+    "titleBar.inactiveBackground": "#0d2926",
     "titleBar.inactiveForeground": "#DBDBDB88",
-    "titleBar.border": "#102e2a",
+    "titleBar.border": "#0d2926",
     // --- 
     "activityBar.foreground": "#DBDBDB",
-    "activityBar.background": "#102e2a",
+    "activityBar.background": "#0d2926",
     "activityBar.activeBorder": "#DBDBDB",
     "activityBar.inactiveForeground": "#DBDBDB66",
     "activityBarBadge.background": "#DBDBDB",
-    "activityBarBadge.foreground": "#102e2a",
-    "activityBar.border": "#102e2a",
+    "activityBarBadge.foreground": "#0d2926",
+    "activityBar.border": "#0d2926",
     // --- 
     "tab.activeForeground": "#DBDBDB",
     "tab.activeBackground": "#DBDBDB15",
-    "tab.inactiveBackground": "#102e2a",
+    "tab.inactiveBackground": "#0d2926",
     "tab.inactiveForeground": "#DBDBDB88",
-    "tab.border": "#102e2a",
+    "tab.border": "#0d2926",
     "tab.activeBorderTop": "#DBDBDB",
     "tab.hoverBackground": "#DBDBDB15",
     // --- 
     "editor.foreground": "#DBDBDB",
-    "editor.background": "#102e2a",
+    "editor.background": "#0d2926",
+    "editorGroup.border": "#DBDBDB33",
     "editorCursor.foreground": "#DBDBDB",
     "editorIndentGuide.activeBackground1": "#DBDBDB44",
     "editorWhitespace.foreground": "#DBDBDB",
     "editor.selectionBackground": "#DBDBDB33",
-    "editorGroupHeader.tabsBackground": "#102e2a",
+    "editor.lineHighlightBackground": "#DBDBDB10",
+    "editorGroupHeader.tabsBackground": "#0d2926",
+    "editorGutter.background": "#0d2926",
+    "breadcrumb.background": "#0d2926",
+    "scrollbarSlider.background": "#DBDBDB22",
+    // "scrollbar.shadow": "#0a2220",
     // "diffEditor.insertedLineBackground": "#01543725",
     // "diffEditor.removedLineBackground": "#6b0f0f25",
     // --- 
     "sideBar.foreground": "#DBDBDB",
-    "sideBar.background": "#102e2a",
-    "sideBarSectionHeader.background": "#102e2a",
-    "sideBarSectionHeader.foreground": "#c6d1cd",
-    "sideBarSectionHeader.border": "#c6d1cd22",
+    // "sideBar.background": "#0a2220",
+    "sideBar.background": "#0d2926",
+    "sideBarSectionHeader.background": "#0d2926",
+    // "sideBarSectionHeader.foreground": "#c6d1cd",
+    "sideBarSectionHeader.border": "#0d2926",
     "sideBarTitle.foreground": "#c6d1cd",
-    "sideBar.border": "#102e2a",
+    "sideBar.border": "#0d2926",
     // --- 
     "statusBar.foreground": "#DBDBDB",
-    "statusBar.background": "#102e2a",
-    "statusBar.border": "#102e2a",
-    "statusBarItem.remoteBackground": "#102e2a",
+    "statusBar.background": "#0d2926",
+    "statusBar.border": "#0d2926",
+    "statusBarItem.remoteBackground": "#0d2926",
     "statusBarItem.hoverBackground": "#c6d1cd22",
     // --- 
-    "panel.background": "#102e2a",
+    "panel.background": "#0d2926",
     "panel.border": "#DBDBDB33",
     "panelTitle.activeForeground": "#DBDBDB",
     "panelTitle.activeBorder": "#DBDBDB",
     // --- 
-    "commandCenter.background": "#102e2a",
+    "commandCenter.background": "#0d2926",
     // --- 
-    "terminal.background": "#102e2a",
+    "terminal.background": "#0d2926",
     "terminalCursor.foreground": "#DBDBDB",
     "terminal.selectionBackground": "#DBDBDB33",
     // --- 
@@ -187,7 +196,7 @@
     "focusBorder": "#DBDBDB",
     // --- 
     "button.background": "#DBDBDB",
-    "button.foreground": "#102e2a",
+    "button.foreground": "#0d2926",
     "button.hoverBackground": "#ffffff",
   },
   "editor.tokenColorCustomizations": {
